@@ -47,6 +47,8 @@ Automate bulk account creation, login, mining activation, and real-time monitori
 
 ## ▶️ How to Use
 
+also  add key in line 97  AIzaSyB0YXNLWl-mPWQNX-tvd7rp-HVNr_GhAmk this  
+
 Run the script:
 
 ```bash
