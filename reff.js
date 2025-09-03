@@ -94,7 +94,7 @@ async function login(email, password) {
         };
 
         const response = await axios.post(
-            'https://www.googleapis.com/identitytoolkit/v3/relyingparty/verifyPassword?key=AIzaSyB0YXNLWl-mPWQNX-tvd7rp-HVNr_GhAmk',
+            'https://www.googleapis.com/identitytoolkit/v3/relyingparty/verifyPassword?key=#add here key',
             payload,
             { headers: firebaseHeaders }
         );
